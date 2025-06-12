@@ -1,7 +1,7 @@
 Role Name
 =========
 
-A brief description of the role goes here.
+This ansible galaxy role will help installing custom web server on ubuntu OS.
 
 Requirements
 ------------
